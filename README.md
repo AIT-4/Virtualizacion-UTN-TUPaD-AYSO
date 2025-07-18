@@ -7,7 +7,7 @@
 
 **Contacto:** federico.durussel@tupad.utn.edu.ar
 
-Trabajo práctico integrador de la materia Arquitectura y Sistemas Operarivos de la Tecnicatura Universitaria en Programación.
+Trabajo práctico integrador de la materia Arquitectura y Sistemas Operativos de la Tecnicatura Universitaria en Programación.
 
 ### Fundamento del trabajo integrador
 
@@ -17,10 +17,10 @@ En programación la virtualización nos permite aislar las pruebas en entornos c
 
 ### Contenido
 
-En la misma carpeta se encuentra el desarrollo del trabajo integrador en formato .pdf.
+En la misma carpeta se encuentra el desarrollo del [trabajo integrador](https://github.com/AIT-4/Virtualizacion-UTN-TUPaD-AYSO/blob/main/Trabajo%20Integrador.pdf) en formato .pdf.
 
 ### Video explicativo
 
 Mediante el siguiente link se puede ingresar al video explicativo del caso practico plasmado en el documento escrito.
 
-Link al video: 
+Link al video: [Youtube](https://youtu.be/LAld3tQ6LIE)
